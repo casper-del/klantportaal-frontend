@@ -9,7 +9,7 @@ import {
   ChevronRight,
   LogOut,
 } from "lucide-react";
-import CRMSettings from "./CRMSettings";
+import CRMSettings from "./CRMSettings.jsx";
 
 const API_BASE = "https://klantportaal.onrender.com/api";
 
@@ -183,3 +183,4 @@ const App = () => {
 };
 
 export default App;
+
